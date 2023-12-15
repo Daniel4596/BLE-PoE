@@ -1,0 +1,23 @@
+[1/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/readTemperature.c.obj
+[2/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/beyond-batteries.c.obj
+[3/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/global-defs.c.obj
+[4/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/ethernet-ip.c.obj
+[5/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mqtt.c.obj
+[6/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/temperature-controller.c.obj
+[7/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/contact.c.obj
+[8/17] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/slowPWM.c.obj
+[9/17] Performing build step for 'bootloader'
+[1/1] cmd.exe /C "cd /D P:\Programme\Uni\Studienarbeit\anlagen-beyond-batteries-max-brueggemann\beyond-batteries-esp-idf\beyond-batteries\build\bootloader\esp-idf\esptool_py && P:\Programme\Espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe P:/Programme/Espressif/frameworks/esp-idf-v5.0.2/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6710 bytes. 0x8f0 bytes (8%) free.
+[10/15] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/ble.c.obj
+[11/15] Linking C static library esp-idf\main\libmain.a
+[12/15] Generating ld/sections.ld
+[13/15] Linking CXX executable beyond-batteries.elf
+[14/15] Generating binary image from built executable
+esptool.py v4.5.1
+Creating esp32 image...
+Merged 25 ELF sections
+Successfully created esp32 image.
+Generated P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/beyond-batteries.bin
+[15/15] cmd.exe /C "cd /D P:\Programme\Uni\Studienarbeit\anlagen-beyond-batteries-max-brueggemann\beyond-batteries-esp-idf\beyond-batteries\build\esp-idf\esptool_py && P:\Programme\Espressif\python_env\idf5.0_py3.11_env\Scripts\python.exe P:/Programme/Espressif/frameworks/esp-idf-v5.0.2/components/partition_table/check_sizes.py --offset 0x8000 partition --type app P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/partition_table/partition-table.bin P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/beyond-batteries.bin"
+beyond-batteries.bin binary size 0x11eae0 bytes. Smallest app partition is 0x177000 bytes. 0x58520 bytes (24%) free.

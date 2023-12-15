@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/CMakeFiles/bootloader
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/CMakeFiles/bootloader.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/CMakeFiles/bootloader-complete.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+P:/Programme/Uni/Studienarbeit/anlagen-beyond-batteries-max-brueggemann/beyond-batteries-esp-idf/beyond-batteries/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

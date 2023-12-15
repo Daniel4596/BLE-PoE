@@ -1,0 +1,8 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "temperature-controller.h": "c",
+        "readtemperature.h": "c"
+    },
+    "idf.portWin": "COM4"
+}
